@@ -5,7 +5,8 @@ internal class Program
     {
         void main()
         {
-            Console.Write("TEST");
+            Console.Write("TEST1-2");
+            Console.Write("TEST2");
 
         }
     }
